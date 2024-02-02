@@ -1,3 +1,9 @@
+#Ignore all keymaps except the ones I'm using
+/keyboards/**/*
+!*/keyboards/splitkb/**/*
+!*/keyboards/sofle/**/*
+**/.DS_Store
+
 # Junk files
 *.bak
 *.swp
